@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zaid</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadzaid1&label=Profile%20views&color=613583&style=flat" alt="ahmadzaid1" /> </p>
 
-- 💬 Ask me about **Information Security, Networikng, Linux, Screenwriting.**
+- 💬 Ask me about **Information Security, Linux, Screenwriting.**
 
 - 📫 How to reach me **ahmadzaid.az@proton.me**
 
