@@ -2,7 +2,7 @@
 - **Interested in:** Information Security, Linux, Networking, GRC and Screenwriting.
 
 - **Email:** ahmadzaid.az@proton.me
-- **LinkedIn**: [Ahmad Zaid](www.linkedin.com/in/ahmad-zaid-b8482a284)
+- **LinkedIn**: [Ahmad Zaid](https://www.linkedin.com/in/ahmad-zaid-b8482a284)
 ## Current Projects
 
 - Policy writing framework.
