@@ -1,4 +1,2 @@
-**Information Systems.**
-- **Interested in:** Information Security, Linux, IT Management and Screenwriting.
-
+[**Moved to gitlab**](https://gitlab.com/ahmad.zaid)
 - **Email me at:** ahmad455.uyt@gmail.com
